@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bottoms_up</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_fragment">Category Fragment</string>
+</resources>
